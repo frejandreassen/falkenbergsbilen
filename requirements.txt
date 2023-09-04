@@ -7,6 +7,6 @@ pandas
 streamlit
 PyPDF2
 pyzbar
-opencv-python
+opencv-python-headless
 numpy
 Pillow
